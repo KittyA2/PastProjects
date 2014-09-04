@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Die()
+comment0.text=\nConstructor\ 1\:\nInstantiates\ a\ die\ with\ a\ zero\ value\ and\ defines\ die\ to\ be\ unlocked.\n\n
+comment1.target=int\ getValue()
+comment1.text=\n@return\ the\ value\ of\ a\ die\ when\ it\ is\ rolled.\ \n\n
+comment2.target=void\ roll()
+comment2.text=\nThis\ method\ rolls\ the\ five\ dice\ randomly.\ If\ a\ die\ is\ locked\ \nit\ does\ not\ roll\ again\ and\ thus\ the\ value\ of\ that\ die\ is\ preserved.\nOnly\ the\ unlocked\ die\ is\ rolled\ each\ time\ when\ this\ method\ is\ called.\n\n
+comment3.target=boolean\ isLocked()
+comment3.text=\nThis\ boolean\ method\ returns\ true\ if\ and\ only\ if\ the\ die\ is\ \nlocked\ otherwise\ return\ false\ as\ defined\ in\ the\ constructor.\ \n\n
+comment4.params=lock
+comment4.target=void\ setLock(boolean)
+comment4.text=\n@param\ lock\ sets\ the\ locked\ state\ of\ the\ die\ (to\ true\ or\ false)\nThis\ mutator\ (setter)\ method\ changes\ the\ locked\ status\ of\ a\ die.\ \n\n
+comment5.target=void\ resetDie()
+comment5.text=\nThis\ method\ changes\ the\ values\ of\ a\ die\ to\ its\ initial\ values\ as\ \ndefined\ in\ the\ constructor\ so\ that\ the\ next\ player\ can\ have\ his\ turn.\ \n\n
+comment6.params=val
+comment6.target=void\ setDie(int)
+comment6.text=\nThe\ value\ of\ a\ die\ to\ set\ to\ a\ new\ value.\ (from\ 1\ to\ 6)\ \n\n
+numComments=7

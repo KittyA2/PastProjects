@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=code
+comment0.target=int\ codeToNumber(int)
+comment0.text=Class\ method\ which\ returns\ the\ numerical\ equivalent\ to\ one\ of\ \nthe\ constants\ ONES\ through\ to\ SIXES\ in\ this\ class.<P>\nFor\ example,\ the\ int\ value\ 3\ would\ be\ returned\ by\ the\ expression\nCellCodes.codeToNumber(CellCodes.THREES).<P>\n@param\ code\ a\ cell\ code\ (should\ be\ one\ of\ the\ Constants\ in\ this\nclass).\n\n
+numComments=1

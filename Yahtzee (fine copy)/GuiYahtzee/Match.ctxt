@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Match()
+comment0.text=\nConstructor1\:\nInstantiates\ only\ the\ private\ fields\ declared\ above.\ \n\n\n
+comment1.params=name
+comment1.target=void\ addPlayer(String)
+comment1.text=\nThis\ method\ checks\ first\ if\ the\ number\ of\ players\ is\ less\ than\ the\ \nplayers\ allowed\ in\ the\ game\ and\ then\ increments\ the\ number\ of\ players\ \nby\ adding\ a\ player.\n\n
+comment2.target=int\ getNumPlayers()
+comment2.text=\n@return\ the\ present\ number\ of\ players\n\n
+comment3.target=Player\ getCurrentPlayer()
+comment3.text=\n@returns\ the\ present\ player\n\n
+comment4.params=playerNum
+comment4.target=Player\ getPlayer(int)
+comment4.text=\n@return\ the\ position\ of\ the\ player\ (whether\ he\ is\ first\ or\ second\ etc)\n\n\n
+comment5.target=void\ nextPlayer()
+comment5.text=\nThis\ method\ updates\ the\ rounds\ and\ games\ of\ the\ game.\n\n
+comment6.target=int\ getGameNum()
+comment6.text=\n@return\ the\ number\ of\ the\ game\n\n
+comment7.target=int\ getRoundNum()
+comment7.text=\n@return\ the\ number\ of\ the\ round\n\n
+numComments=8

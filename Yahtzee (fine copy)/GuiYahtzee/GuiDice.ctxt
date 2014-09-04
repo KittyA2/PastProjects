@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=GuiDice()
+comment1.params=d\ cheat
+comment1.target=GuiDice(Die,\ boolean)
+comment2.params=val
+comment2.target=void\ showval(int)
+numComments=3

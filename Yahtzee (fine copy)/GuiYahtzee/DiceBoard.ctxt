@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=DiceBoard()
+comment0.text=\nConstructor\ 1\:\ \nInstantiates\ an\ array\ for\ each\ of\ teh\ five\ dice\ storing\ every\ die\ in\ \neach\ of\ an\ array\ element.\n\n
+comment1.params=num
+comment1.target=Die\ getDie(int)
+comment1.text=\n@return\ the\ specific\ die\ in\ the\ diceboard\ is\ returned.\n\n
+comment2.target=int\ getNextRollNum()
+comment2.text=\n@return\ the\ next\ roll\ number.\ \n\n
+comment3.target=void\ rollBoard()
+comment3.text=\nThis\ method\ determines\ the\ roll\ state\ of\ every\ die\ in\ the\ created\ \narray.\ If\ a\ die\ in\ the\ array\ is\ not\ locked\ it\ is\ rolled\ and\ finally,\ \nthe\ roll\ numberis\ updated.\n\n
+comment4.target=void\ resetBoard()
+comment4.text=\nThis\ method\ resets\ the\ board\ to\ the\ initial\ conditions\ for\ the\ next\ \nplayer\ to\ have\ his\ turn.\n\n
+numComments=5

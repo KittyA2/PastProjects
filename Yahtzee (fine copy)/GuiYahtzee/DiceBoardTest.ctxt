@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=DiceBoardTest()
+comment0.text=\nDefault\ constructor\ for\ test\ class\ DiceBoardTest\n\n
+comment1.target=void\ setUp()
+comment1.text=\nSets\ up\ the\ test\ fixture.\n\nCalled\ before\ every\ test\ case\ method.\n\n
+comment2.target=void\ tearDown()
+comment2.text=\nTears\ down\ the\ test\ fixture.\n\nCalled\ after\ every\ test\ case\ method.\n\n
+comment3.target=void\ testConstructor()
+comment4.target=void\ testGetDie()
+comment4.text=Test\ that\ the\ constructor\ creates\ five\ Die\ objects,\ and\ that\ they\ can\ be\ \nretrieved\ using\ getDie.\n\n
+comment5.target=void\ testNextRollNum()
+comment5.text=Test\ that\ the\ roll\ number\ advances\ correctly.\n\n
+comment6.target=void\ testRollBoard()
+comment6.text=Test\ rollBoard\ rolls\ all\ of\ the\ Dice.\n\n
+comment7.target=void\ testResetBoard()
+numComments=8

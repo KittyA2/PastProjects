@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=DieTest()
+comment0.text=\nDefault\ constructor\ for\ test\ class\ DieTest\n\n
+comment1.target=void\ setUp()
+comment1.text=\nSets\ up\ the\ test\ fixture.\n\nCalled\ before\ every\ test\ case\ method.\n\n
+comment2.target=void\ tearDown()
+comment2.text=\nTears\ down\ the\ test\ fixture.\n\nCalled\ after\ every\ test\ case\ method.\n\n
+comment3.target=void\ testConstructor()
+comment4.target=void\ testSetLock()
+comment5.target=void\ testRoll1()
+comment6.target=void\ testRoll2()
+comment7.target=void\ testLockedRoll()
+comment8.target=void\ testSetReset()
+numComments=9

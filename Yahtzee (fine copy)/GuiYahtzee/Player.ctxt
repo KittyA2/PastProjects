@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=name
+comment0.target=Player(String)
+comment0.text=\nConstructor\ 1\:\ \nThis\ constructor\ contains\ the\ player's\ name\ as\ a\ parameter.\nIt\ instantiates\ the\ 2D\ score\ sheet\ array.\ The\ for\ loop\ initialises\ the\ columns\ (maximum\nnumber\ of\ games)\ and\ rows\ (Cellcodes)\ assigning\ them\ to\ \ -1\ as\ expected\ to\ highlight\ the\ \ncategoires\ defined\ in\ the\ scoresheet.\n\n
+comment1.target=String\ getName()
+comment1.text=\n@return\ name\ of\ the\ current\ player\n\n
+comment2.params=game\ cell
+comment2.target=int\ getScoreCell(int,\ int)
+comment2.text=\n@return\ the\ number\ of\ the\ cell\ and\ the\ number\ of\ the\ game\ in\ which\ the\ scores\ are\ present.\ \n\n
+comment3.params=game\ cell\ score
+comment3.target=void\ setScoreCell(int,\ int,\ int)
+comment3.text=\nThis\ method\ sets\ the\ score\ in\ the\ particular\ cell\ of\ that\ game\ number.\n\n
+numComments=4
